@@ -1,1 +1,1 @@
-Readme for daskalo-todo
+Base js project with liting and formatting
